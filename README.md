@@ -1,7 +1,34 @@
-# oteeTest
-Solution to coding task
+# oteeTest: How Many Squares?
 
-Task
+## Description
+This project calculates the total number of axis-aligned/ diagonal squares (precomputed upto 10) in an `n x n` grid.
+
+## Build Instructions
+
+```bash
+mkdir build && cd build
+cmake ..
+make
+```
+
+## Run
+
+```bash
+./src/square_main
+```
+
+## Run Unit Tests
+
+```bash
+./tests/test_square_calc
+```
+
+## Requirements
+- CMake
+- CUnit (install with `sudo apt install libcunit1-dev` on Ubuntu)
+
+
+## Task
 Task Description
 You are asked to provide a solution to the “How many squares?” problem. On an
 infinite lattice you are given an n x n square, for an arbitrary value of n. How many
