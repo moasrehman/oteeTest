@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_square_calc.dir/test_square_calc.c.o -o test_square_calc  -Wl,-rpath,/usr/lib/x86_64-linux-gnu ../src/libsquare_calc.a /usr/lib/x86_64-linux-gnu/libcunit.so 

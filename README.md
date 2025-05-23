@@ -1,7 +1,11 @@
 # oteeTest: How Many Squares?
 
 ## Description
-This project calculates the total number of axis-aligned/ diagonal squares (precomputed upto 10) in an `n x n` grid.
+This project calculates the total number of axis-aligned and diagonal squares visible in an `n x n` grid lattice.
+
+- Axis-aligned squares are counted using a closed-form formula.
+- Diagonal squares (i.e., squares rotated 45 degrees) are precomputed up to `n = 10`, based on values referenced from the [OEIS A131868](https://oeis.org/A131868) sequence.
+
 
 ## Build Instructions
 
@@ -27,6 +31,9 @@ make
 - CMake
 - CUnit (install with `sudo apt install libcunit1-dev` on Ubuntu)
 
+## Notes
+- If CUnit is not detected by CMake, we use a custom FindCUnit.cmake script located in cmake/.
+- The build system is fully CMake-based and portable.
 
 ## Task
 Task Description

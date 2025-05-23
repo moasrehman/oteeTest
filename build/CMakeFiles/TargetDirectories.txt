@@ -1,0 +1,9 @@
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/CMakeFiles/edit_cache.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/src/CMakeFiles/square_calc.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/src/CMakeFiles/square_main.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/src/CMakeFiles/edit_cache.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/tests/CMakeFiles/test_square_calc.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/tests/CMakeFiles/edit_cache.dir
+/mnt/d/Work/Post_April2024Appications/OTee test/new/oteeTest/build/tests/CMakeFiles/rebuild_cache.dir

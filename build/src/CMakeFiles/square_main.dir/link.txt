@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/square_main.dir/main.c.o -o square_main  libsquare_calc.a 

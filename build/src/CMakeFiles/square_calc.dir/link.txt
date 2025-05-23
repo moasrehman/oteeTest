@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsquare_calc.a CMakeFiles/square_calc.dir/square_calc.c.o
+/usr/bin/ranlib libsquare_calc.a
